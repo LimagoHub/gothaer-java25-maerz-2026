@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(javac:*)",
+      "Bash(for f:*)",
+      "Bash(do)",
+      "Bash(echo \"--- $f ---\")",
+      "Read(//c/Users/JoachimWagner/Documents/git/Limago/limago-java25-neuerungen/06_NeuerungenfuerDieNebenlaeufigeProgrammierung/G_ScopedValueUndStructuredTaskScope/**)",
+      "Bash(done)"
+    ]
+  }
+}

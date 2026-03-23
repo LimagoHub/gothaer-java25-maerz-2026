@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_SimpleThread/01_SimpleThread.iml" filepath="$PROJECT_DIR$/01_SimpleThread/01_SimpleThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/06_NeuerungenfuerDieNebenlaeufigeProgrammierung.iml" filepath="$PROJECT_DIR$/.idea/06_NeuerungenfuerDieNebenlaeufigeProgrammierung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A_SimpleVirtualThread/A_SimpleVirtualThread.iml" filepath="$PROJECT_DIR$/A_SimpleVirtualThread/A_SimpleVirtualThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B_SimpleExcecutorService/B_SimpleExcecutorService.iml" filepath="$PROJECT_DIR$/B_SimpleExcecutorService/B_SimpleExcecutorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankProjekt/BankProjekt.iml" filepath="$PROJECT_DIR$/BankProjekt/BankProjekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C_StructuredTaskScopeDemo/C_StructuredTaskScopeDemo.iml" filepath="$PROJECT_DIR$/C_StructuredTaskScopeDemo/C_StructuredTaskScopeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_ExecutorServiceUndStructuredTaskScope/D_ExecutorServiceUndStructuredTaskScope.iml" filepath="$PROJECT_DIR$/D_ExecutorServiceUndStructuredTaskScope/D_ExecutorServiceUndStructuredTaskScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E_FehlerbehandlungBeiStructuredTaskScope/E_FehlerbehandlungBeiStructuredTaskScope.iml" filepath="$PROJECT_DIR$/E_FehlerbehandlungBeiStructuredTaskScope/E_FehlerbehandlungBeiStructuredTaskScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceutorServiceDemo/ExceutorServiceDemo.iml" filepath="$PROJECT_DIR$/ExceutorServiceDemo/ExceutorServiceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F_ScopedValues/F_ScopedValues.iml" filepath="$PROJECT_DIR$/F_ScopedValues/F_ScopedValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/G_ScopedValueUndStructuredTaskScope/G_ScopedValueUndStructuredTaskScope.iml" filepath="$PROJECT_DIR$/G_ScopedValueUndStructuredTaskScope/G_ScopedValueUndStructuredTaskScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H_BoeseFalle/H_BoeseFalle.iml" filepath="$PROJECT_DIR$/H_BoeseFalle/H_BoeseFalle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/I_Pinning/I_Pinning.iml" filepath="$PROJECT_DIR$/I_Pinning/I_Pinning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J_ShutdownOnSuccess/J_ShutdownOnSuccess.iml" filepath="$PROJECT_DIR$/J_ShutdownOnSuccess/J_ShutdownOnSuccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lamda/Lamda.iml" filepath="$PROJECT_DIR$/Lamda/Lamda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LockVarianten/LockVarianten.iml" filepath="$PROJECT_DIR$/LockVarianten/LockVarianten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchweinDemo/SchweinDemo.iml" filepath="$PROJECT_DIR$/SchweinDemo/SchweinDemo.iml" />
+    </modules>
+  </component>
+</project>
